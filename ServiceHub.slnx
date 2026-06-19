@@ -1,8 +1,0 @@
-<Solution>
-  <Folder Name="/src/">
-    <Project Path="src/ServiceHub.Api/ServiceHub.Api.csproj" />
-    <Project Path="src/ServiceHub.Application/ServiceHub.Application.csproj" />
-    <Project Path="src/ServiceHub.Domain/ServiceHub.Domain.csproj" />
-    <Project Path="src/ServiceHub.Infrastructure/ServiceHub.Infrastructure.csproj" />
-  </Folder>
-</Solution>

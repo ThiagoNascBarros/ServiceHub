@@ -1,4 +1,4 @@
-namespace ServiceHub.Api;
+namespace FlencyHub.Api;
 
 public class WeatherForecast
 {

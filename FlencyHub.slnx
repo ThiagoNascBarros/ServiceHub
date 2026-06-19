@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/FlencyHub.Api/FlencyHub.Api.csproj" />
+    <Project Path="src/FlencyHub.Application/FlencyHub.Application.csproj" />
+    <Project Path="src/FlencyHub.Domain/FlencyHub.Domain.csproj" />
+    <Project Path="src/FlencyHub.Infrastructure/FlencyHub.Infrastructure.csproj" />
+  </Folder>
+</Solution>

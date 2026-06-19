@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace ServiceHub.Api.Controllers;
+namespace FlencyHub.Api.Controllers;
 
 [ApiController]
 [Route("[controller]")]
